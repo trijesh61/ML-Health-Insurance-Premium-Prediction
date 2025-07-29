@@ -1,2 +1,2 @@
-# ML-Insurance-Premium-Prediction
-Machine Learning Project that predicts the insurance premium
+# ML-Insurance-Premium-predictor
+Predicts the Premium amount using machine learning
