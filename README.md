@@ -122,7 +122,7 @@ Click here to try it live:
 
 **Trijesh Kondapuram**  
 📌 Emerging Data Scientist | AI Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/trijesh-k/) • 🌐 [GitHub](https://github.com/trijesh61)
+🔗 [LinkedIn]([https://www.linkedin.com/in/trijesh-k/](https://www.linkedin.com/in/trijesh-kondapuram/)) • 🌐 [GitHub](https://github.com/trijesh61)
 
 ---
 
