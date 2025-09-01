@@ -3,7 +3,7 @@
 
 [![Streamlit App](https://img.shields.io/badge/Live%20App-Click%20Here-brightgreen?style=for-the-badge&logo=streamlit)](https://health-insurance-premium-prediction-ml.streamlit.app/)
 
-
+ 
 
 This project predicts the **health insurance premium cost** based on user-input features using a trained machine learning model. It demonstrates a complete ML pipeline — from data preprocessing to model deployment using Streamlit.
 
